@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "YTPaymentTest",
+	"category" : "WorkshopAttendance-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "YTYTIndividualPaymentTest",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "WorkshopAttendance-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"paid",
+		"total",
+		"date"
+	],
+	"name" : "YTPayment",
+	"type" : "normal"
+}
