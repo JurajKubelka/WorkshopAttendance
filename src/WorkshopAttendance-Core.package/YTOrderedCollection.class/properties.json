@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "OrderedCollection",
+	"category" : "WorkshopAttendance-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "YTOrderedCollection",
+	"type" : "normal"
+}

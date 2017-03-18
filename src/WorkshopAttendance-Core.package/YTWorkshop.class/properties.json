@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "YTNamedObject",
+	"category" : "WorkshopAttendance-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"campuses",
+		"inscriptions",
+		"assistants",
+		"participations"
+	],
+	"name" : "YTWorkshop",
+	"type" : "normal"
+}

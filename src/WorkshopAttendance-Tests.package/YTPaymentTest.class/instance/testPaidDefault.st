@@ -1,3 +1,3 @@
 tests
 testPaidDefault
-	self assert: self paymentClass new paid equals: 0.
+	self assert: self newPayment paid equals: 0.

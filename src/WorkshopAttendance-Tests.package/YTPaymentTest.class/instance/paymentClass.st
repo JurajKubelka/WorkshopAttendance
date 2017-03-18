@@ -1,3 +1,0 @@
-accessing
-paymentClass
-	^ self subclassResponsibility

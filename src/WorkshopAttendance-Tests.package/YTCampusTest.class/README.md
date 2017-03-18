@@ -1,0 +1,1 @@
+A YTCampusTest is a test class for testing the behavior of YTCampus

@@ -7,8 +7,10 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"paid",
-		"total",
-		"date"
+		"quota",
+		"date",
+		"practicioner",
+		"assistant"
 	],
 	"name" : "YTPayment",
 	"type" : "normal"

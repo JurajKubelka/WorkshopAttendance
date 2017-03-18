@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "YTNamedObject",
+	"category" : "WorkshopAttendance-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "YTAssistant",
+	"type" : "normal"
+}

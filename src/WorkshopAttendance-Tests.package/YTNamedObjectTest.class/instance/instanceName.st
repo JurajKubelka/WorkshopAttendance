@@ -1,0 +1,3 @@
+accessing
+instanceName
+	^ 'instance one'

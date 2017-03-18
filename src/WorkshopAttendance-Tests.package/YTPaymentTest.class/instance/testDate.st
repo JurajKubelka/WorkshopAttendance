@@ -2,5 +2,5 @@ tests
 testDate
 	| date |
 	date := DateAndTime yesterday.
-	payment := self paymentClass new date: date.
+	payment := self newPayment date: date.
 	self assert: payment date equals: date.

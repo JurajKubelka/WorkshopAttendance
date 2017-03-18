@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "YTNamedObjectTest",
+	"category" : "WorkshopAttendance-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "YTAssistantTest",
+	"type" : "normal"
+}

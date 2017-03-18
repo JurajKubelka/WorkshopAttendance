@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "YTOrderedCollectionTest",
+	"category" : "WorkshopAttendance-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "YTPaymentsTest",
+	"type" : "normal"
+}
